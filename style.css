@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  border: border-box;
+}
+.navbar {
+  height: 60px;
+  background-color: black;
+  color: azure;
+  display: flex;
+  align-items: center;
+}
+
+.nav-logo {
+  height: 50px;
+  width: 100px;
+}
+.logo {
+  background-image: url(amazon_logo.png);
+  background-size: cover;
+  height: 50px;
+  width: 100%;
+}
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border: 1px solid white;
+}
+.add-icon{
+    align-items: center;
+    display: flex;
+ 
+}
+.add-first{
+    color: #cccccc;
+    font-size: 0.85rem;
+    margin-left: 15px;
+}
+.add-second{
+font-size: 1rem;
+margin-left: 3px;
+}
