@@ -205,5 +205,18 @@ ul a {
   background-image: url(amazon_logo.png);
   background-size: cover;
   height: 50px;
-  width: 100px;
+  width: 80px;
+}
+.foot-panel3 {
+  background-color: #0f1111;
+  color: white;
+  font-size: 0.7rem;
+  text-align: center;
+  height: 100px;
+}
+.pages {
+  padding: 25px;
+}
+.copyright {
+  padding-top: 5px;
 }
